@@ -8,3 +8,4 @@ x 2022-03-28 28-03-2022 Finish homework @study
 x 2022-03-28 28-03-2022 Finish Multi-Choice part of Physics prep exam @study at:night
 x 2022-03-28 28-03-2022 Study the Essay (II) part of Physics prep exam as it is not very hard @study
 x 2022-03-28 28-03-2022 Study the Multi-Choice (I) part of Chemistry prep exam @study
+x 2022-03-28 28-03-2022 Testing the Upt alias
