@@ -9,6 +9,7 @@
 
 # Embracing PHP
 
-PHP is what a lot of people considers to be one of the worst designed programming language ever.
-But is it really that bad? Today I decided to learn PHP and Laravel, build some simple web apps,
-and see for myself how bad it is.
+PHP is a pretty special language to me. It is a programming language that I never actually learned and
+not wanting to learn because of its notorious reputation. But after reading this [post]() about new
+features in PHP and see it more positively, I decided to learn the language and see if all the bad
+things that had been assigned with it actually affects my experience.
