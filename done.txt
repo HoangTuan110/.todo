@@ -4,3 +4,7 @@ x 2022-03-28 28-03-2022 Study geography for the exam (Part II, Essay) @study at:
 x 2022-03-28 28-03-2022 Wash clothes @chore
 x 2022-03-28 28-03-2022 Learn PHP to see how bad it is @programming
 x 2022-03-28 28-03-2022 Re-study geography for the exam (Part II, Essay) @study
+x 2022-03-28 28-03-2022 Finish homework @study
+x 2022-03-28 28-03-2022 Finish Multi-Choice part of Physics prep exam @study at:night
+x 2022-03-28 28-03-2022 Study the Essay (II) part of Physics prep exam as it is not very hard @study
+x 2022-03-28 28-03-2022 Study the Multi-Choice (I) part of Chemistry prep exam @study
