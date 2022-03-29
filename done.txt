@@ -15,3 +15,4 @@ x 2022-03-29 29-03-2022 Study the Hydro part of the Multi-Choice of Chemistry pr
 x 2022-03-29 29-03-2022 Read a Hacker News article @programming
 x 2022-03-29 29-03-2022 Doing some Codeforces @programming
 x 2022-03-29 29-03-2022 Re-study both Chemistry and Physics prep exam @study
+x 2022-03-29 29-03-2022 Doing the given Programming homeworks @programming
