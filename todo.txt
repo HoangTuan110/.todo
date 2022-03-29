@@ -1,1 +1,1 @@
-(B) 29-03-2022 Trying to implement Merge Sort in C++ @programming (Could be a pretty good exercise)
+(A) 29-03-2022 Trying to implement Merge Sort in C++ @programming (Could be a pretty good exercise)
