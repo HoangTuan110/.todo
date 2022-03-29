@@ -19,3 +19,4 @@ x 2022-03-29 29-03-2022 Doing the given Programming homeworks @programming
 x 2022-03-29 29-03-2022 Take a shower @hygiene
 x 2022-03-29 29-03-2022 Do homeworks @study
 x 2022-03-29 29-03-2022 Write the Biology prep exam answers to the testing paper @study
+x 2022-03-29 29-03-2022 Finish all the Advanced Programming homeworks @programming
