@@ -10,3 +10,5 @@ x 2022-03-28 28-03-2022 Study the Essay (II) part of Physics prep exam as it is 
 x 2022-03-28 28-03-2022 Study the Multi-Choice (I) part of Chemistry prep exam @study
 x 2022-03-28 28-03-2022 Testing the Upt alias
 x 2022-03-28 28-03-2022 Do more Codeforces @programming
+x 2022-03-29 29-03-2022 Study Multi-Choice of Physics prep exam @study
+x 2022-03-29 29-03-2022 Study the Hydro part of the Multi-Choice of Chemistry prep exam @study
