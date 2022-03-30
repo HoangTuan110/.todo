@@ -10,6 +10,7 @@ with the development of `eddie`, a line editor similiar to `ed`.
 		- Input mode allows for inputting text to the buffer (Similiar to Insert mode in Vim)
 
 # Prompt mode
+- By default `ed` is automatically in prompt mode, so we usually don't need to do the switch
 - To switch to Prompt mode, we need to use `P`
 - `ed` uses `*` for Prompt mode (to avoid confusion with `sh`'s `$`, which I think is not very necessary today)
 - Prompt mode has several commands:
@@ -19,6 +20,13 @@ with the development of `eddie`, a line editor similiar to `ed`.
 	- `p` prints the last line of the buffer
 	- `,`, when stand alone, works the same way as `p`, but when combined with other commands means `the whole buffer`
 	- `w` followed by an input file writes the content of the buffer to the file
+	- `a` allows for appending text to the buffer
+	- `s` is used for search-and-replace
+
+# Input mode
+- Input mode is enabled when an input command (such as `a`, `i`, `c`) is used
+- In input mode, every text that is inputted gets put in the buffer
+- `.` is used to terminate input mode
 
 # Examples
 
@@ -43,4 +51,18 @@ if {$i == 0} {
 		puts 1
 	}
 }
+```
+
+Correct a mistake:
+```
+a
+There is an foutain.
+Some more fountains.
+.
+# Select line 1 for editing
+1
+There is an foutain.
+# Correct the spelling of "fountain"
+s/outa/ounta/p
+There is an fountain.
 ```
