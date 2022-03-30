@@ -22,6 +22,8 @@ with the development of `eddie`, a line editor similiar to `ed`.
 	- `w` followed by an input file writes the content of the buffer to the file
 	- `a` allows for appending text to the buffer
 	- `s` is used for search-and-replace
+	- `<n: integer>` moves the cursor to line `n`
+	- `m<n>` moves the line at the cursor to line `n`
 
 # Input mode
 - Input mode is enabled when an input command (such as `a`, `i`, `c`) is used
