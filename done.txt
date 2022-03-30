@@ -21,3 +21,4 @@ x 2022-03-29 29-03-2022 Do homeworks @study
 x 2022-03-29 29-03-2022 Write the Biology prep exam answers to the testing paper @study
 x 2022-03-29 29-03-2022 Finish all the Advanced Programming homeworks @programming
 x 2022-03-29 29-03-2022 Trying to implement Merge Sort in C++ @programming (Could be a pretty good exercise)
+x 2022-03-30 30-03-2022 Working on a web crawler
