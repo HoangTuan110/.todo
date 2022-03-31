@@ -24,3 +24,4 @@ x 2022-03-29 29-03-2022 Trying to implement Merge Sort in C++ @programming (Coul
 x 2022-03-30 30-03-2022 Working on a web crawler
 x 2022-03-30 30-03-2022 Write notes about GNU `ed` @programming
 x 2022-03-30 30-03-2022 Study Biology prep exam @study at:night
+x 2022-03-31 31-03-2022 Study Technology prep exam @study
