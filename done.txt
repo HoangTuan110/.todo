@@ -29,3 +29,4 @@ x 2022-03-31 31-03-2022 Writing about lessions that I have learned from a Show H
 x 2022-03-31 31-03-2022 Re-learn everything for this afternoon @study
 x 2022-03-31 31-03-2022 Doing Codeforces @programming
 x 2022-03-31 31-03-2022 Doing homeworks
+x 2022-03-31 31-03-2022 Study GDCD (13, 14, 16) @study
