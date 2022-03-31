@@ -26,3 +26,4 @@ x 2022-03-30 30-03-2022 Write notes about GNU `ed` @programming
 x 2022-03-30 30-03-2022 Study Biology prep exam @study at:night
 x 2022-03-31 31-03-2022 Study Technology prep exam @study
 x 2022-03-31 31-03-2022 Writing about lessions that I have learned from a Show HN @programming
+x 2022-03-31 31-03-2022 Re-learn everything for this afternoon @study
