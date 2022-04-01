@@ -33,3 +33,4 @@ x 2022-03-31 31-03-2022 Study GDCD (13, 14, 16) @study
 x 2022-04-01 01-04-2022 Study GDCD (15, 17) @study
 x 2022-04-01 01-04-2022 Celebrating April Fools Day @study
 x 2022-04-01 01-04-2022 Doing some Codeforces @programming
+x 2022-04-01 01-04-2022 Re-learn everything for the GDCD exam @study
