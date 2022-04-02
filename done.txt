@@ -37,3 +37,4 @@ x 2022-04-01 01-04-2022 Re-learn everything for the GDCD exam @study
 x 2022-04-01 01-04-2022 Study History prep exam (Multi-Choice part) @study
 x 2022-04-01 01-04-2022 Study History prep exam (Essay part) @study
 x 2022-04-02 02-04-2022 Learn more about GNU Emacs
+x 2022-04-02 02-04-2022 Do IT prep exam @study
