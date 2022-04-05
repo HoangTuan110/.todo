@@ -41,3 +41,4 @@ x 2022-04-02 02-04-2022 Do IT prep exam @study
 x 2022-04-02 02-04-2022 Working on writing a layout for the Literature prep exam @study at:night
 x 2022-04-03 03-04-2022 Doing homework @study
 x 2022-04-03 03-04-2022 Studying for the Literature prep exam @study
+x 2022-04-05 05-04-2022 Doing homework @study
