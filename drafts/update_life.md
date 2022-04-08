@@ -32,14 +32,15 @@ While waiting for summer, here are things that I have learned this week:
 
 A list of interesting things that happened in this week, both good and bad:
 - For the past couple of days, my grandpa's health has been severely degraded. He now
-got COVID-19 and a condition which makes him unable to eat solid food. I am really
-worried about him, and it looks like his life has come to an end. I am still hoping
+got COVID-19 and lung cancer which makes him unable to eat solid food. I am really
+worried about him, and it looks like his life has come to an end. But I am still hoping
 for magic to happen and my grandpa to win the battle.
 - About 2 days ago, I found out that there's a yellow dog hiding in my dad's plant pot.
-  I don't know where the dog came from, or how it got there, but from its bad look, I
-  assume that it has been catched by the dog thefts, and managed to escape and now is
-  hiding. Since we already have two dogs, 
+I don't know where the dog came from, or how it got there, but from its bad look, I
+assume that it has been catched by the dog thefts, and managed to escape and now is
+hiding. We have been feeding it for a few days, but it keeps turning the opposite
+side against us. If possible, we will bring it to a vet to help improve the situation.
 
-That's all things that happened in this week.
+That's all things that happened in this week. Some bad, some good, and one is horrible.
 > Note to my future self: If my grandpa win or lose the battle, please write a post
 > about it.
