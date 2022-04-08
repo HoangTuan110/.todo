@@ -30,5 +30,11 @@ While waiting for summer, here are things that I have done this week:
   elements (like `%p`) are a bit hard to get used to.
 - Building some ordinary web applications.
 
-So those are things that I have learned in this week. Most of them are Ruby web technologies,
-and a lot of them give me a good impression. I will build more interesting web apps next time!
+Now, for the bad news:
+For the past couple of days, my grandpa's health has been severely degraded. He now
+got COVID-19 and a condition which makes him unable to eat solid food. I am really
+worried about him, and it looks like his life has come to an end. I am still hoping
+for magic to happen and my grandpa to win the battle.
+
+That's all things that happened in this week. Note to my future self: If my grandpa
+win or lose the battle, please write a post about it.
