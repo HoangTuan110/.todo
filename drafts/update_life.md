@@ -10,8 +10,8 @@ write more frequently after the exam.
 Summer is near now, and I can already feel the nostalgia from the burning
 sun, the beautiful white of light, and the cooling air of winds.
 
-While waiting for summer, here are things that I have done this week:
-- Learning about minimal web tech: [Alpine](https://alpinejs.dev/).
+While waiting for summer, here are things that I have learned this week:
+- Minimal web framework: [Alpine](https://alpinejs.dev/).
   Alpine works like a charm, although it can be cumbersome. Sometimes
   you have to debug your data code by including it in `Alpine.data`.
   There's also [Turbo](https://turbo.hotwired.dev/), but it looks
@@ -30,11 +30,15 @@ While waiting for summer, here are things that I have done this week:
   elements (like `%p`) are a bit hard to get used to.
 - Building some ordinary web applications.
 
-Now, for the bad news:
-For the past couple of days, my grandpa's health has been severely degraded. He now
+A list of interesting things that happened in this week, both good and bad:
+- For the past couple of days, my grandpa's health has been severely degraded. He now
 got COVID-19 and a condition which makes him unable to eat solid food. I am really
 worried about him, and it looks like his life has come to an end. I am still hoping
 for magic to happen and my grandpa to win the battle.
+- About 2 days ago, I found out that there's a yellow dog hiding in my dad's plant pot.
+  I don't know where the dog came from, or how it got there, but from its bad look, I
+  assume that it has been catched by the dog thefts, and managed to escape and now is
+  hiding. Since we already have two dogs, 
 
 That's all things that happened in this week.
 > Note to my future self: If my grandpa win or lose the battle, please write a post
