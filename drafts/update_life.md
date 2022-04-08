@@ -45,4 +45,4 @@ That's all things that happened in this week. Some bad, some good, and one is ho
 > Note to my future self: If my grandpa win or lose the battle, please write a post
 > about it.
 
-> Comment in my HN submission: https://news.ycombinator.com/item?id=30956303
+> Comment on my HN submission: https://news.ycombinator.com/item?id=30956303
