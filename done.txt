@@ -47,3 +47,4 @@ x 2022-04-05 05-04-2022 Doing homework @study
 x 2022-04-05 05-04-2022 Doing Math prep exam (pt. 1) @exam @study
 x 2022-04-06 05-04-2022 Doing Math prep exam (pt. 2) @exam @study
 x 2022-04-07 07-04-2022 Study English prep exam @study
+x 2022-04-08 08-04-2022 Study Math prep exam @study
