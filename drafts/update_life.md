@@ -36,5 +36,6 @@ got COVID-19 and a condition which makes him unable to eat solid food. I am real
 worried about him, and it looks like his life has come to an end. I am still hoping
 for magic to happen and my grandpa to win the battle.
 
-That's all things that happened in this week. Note to my future self: If my grandpa
-win or lose the battle, please write a post about it.
+That's all things that happened in this week.
+> Note to my future self: If my grandpa win or lose the battle, please write a post
+> about it.
