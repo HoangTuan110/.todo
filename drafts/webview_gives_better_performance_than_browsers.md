@@ -1,6 +1,6 @@
 # Webview gives better performance than normal browsers (when playing web games)
 
-Today I learned that using Webview for playing web games gives better performance than using a browser.
+Yesterday I learned that using Webview for playing web games gives better performance than using a browser.
 
 I was trying to login into [TETR.IO](https://tetr.io), a modern Tetris implementation. I enter my username,
 password, and a code stored in my Twilio Authy which serves as 2FA. Then, bam! I was greeted by a
