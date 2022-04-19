@@ -14,3 +14,23 @@ intent to.
 
 As an attempt to play the only interesting game in my tiny game library, I decided to open up the terminal
 and visit an old project I hastily wrote about a month ago, called Weapp.
+
+Weapp is basically a Python script that runs and displays content of the URL given using Webview. It is just
+in 14 lines of code:
+
+```py
+from typer import run
+import webview
+
+def main(title: str, url: str):
+    """
+    Main function
+    """
+    print(f"Title: {title}")
+    print(f"URL: {url}")
+    webview.create_window(title, url)
+    webview.start()
+
+if __name__ == "__main__":
+    run(main)
+```

@@ -1,1 +1,1 @@
-(B) 19-04-2022 Updating draft "Webview gives better performance than normal browsers"
+(A) 19-04-2022 Updating draft "Webview gives better performance than normal browsers"
