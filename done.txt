@@ -54,3 +54,4 @@ x 2022-04-17 15-04-2022 Writing a Python-to-Pascal program
 x 2022-04-17 17-04-2022 Doing homework
 x 2022-04-17 17-04-2022 Doing Pascal homeworks
 x 2022-04-19 19-04-2022 Doing IT homeworks @programming
+x 2022-04-19 19-04-2022 Updating draft "Webview gives better performance than normal browsers"
