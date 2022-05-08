@@ -4,7 +4,7 @@ I use a handful of extensions to make my job of surfing easier, to be more produ
 
 ## 1. [uBlock Origin](https://github.com/gorhill/uBlock)
 
-The extension that is automatically installed on [LibreWolf](). It does exactly what it says and it's an excellent extension. A feature I like about uBlock is the ability to block (i.e. remove) a specific element on a web page. It allows you to modify the website the way you want without actually affecting the website.
+The extension that is automatically installed on [LibreWolf](https://librewolf.net). It does exactly what it says and it's an excellent extension. A feature I like about uBlock is the ability to block (i.e. remove) a specific element on a web page. It allows you to modify the website the way you want without actually affecting the website.
 
 ![uBlock Origin `Block Element` in action](https://files.catbox.moe/mxy497.png)
 
