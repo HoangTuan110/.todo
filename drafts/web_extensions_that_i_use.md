@@ -36,4 +36,14 @@ Dark Reader turns the site that you are visiting (unless they are in the Site Li
 
 I have fallen in love with Neeva since I first used it. Outstanding instant answers with a beautiful and smooth UI, ad-free, and an excellent UX. Love it.
 
-Neeva provides a [browser extension]() for Firefox, which is good, since LibreWolf--and Firefox in general--don't provide a way to add a new search engine from the Settings, unlike Chrome.
+Neeva provides a [browser extension](https://addons.mozilla.org/en-US/firefox/addon/neeva-for-firefox/) for Firefox, which is good, since LibreWolf--and Firefox in general--don't provide a way to add a new search engine from the Settings, unlike Chrome.
+
+In addition to setting Neeva as the default search engine, the extensions also have a Tracker Blocker, which isn't need since I already have uBlock Origin, but it may come handy for those who doesn't install any ad blocker (which I think is very small).
+
+![Me searching `Manta Ray` on Neeva](https://files.catbox.moe/6vo2ax.png)
+
+## 7. [GreaseMonkey](https://greasespot.net)
+
+GreaseMonkey is an extensions that allows you to install and run userscripts i.e. scripts that modify your surfing experience. I like this one, since it allows you to install, modify, and create userscripts. I have used it to made a few scripts that makes my experience when I am on Hacker News.
+
+## Conclusion
