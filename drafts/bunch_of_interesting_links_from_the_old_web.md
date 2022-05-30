@@ -2,14 +2,15 @@
 
 After diving into a whole rabbit hole of the old Internet from [this one post](https://nights.bearblog.dev/how-to-stop-being-terminally-online/), I decided to make a list of the most interesting links I found while diving.
 
-Updated: 18/05/2022
+Updated: 27/05/2022
 
-Found a grammar mistake or want to add a link to the list? [Email me](mailto:danghoangtuan526@protonmail.com).
+Found a grammar mistake or want to add a link to the list? [Email me](mailto:danghoangtuan526@proton.me).
 
 Most of these links might dead in the future, and for that case, you should use [Wayback Machine](https://web.archive.org) or [archive.ph](https://archive.ph).
 
 # Table of Content
 
+- [Blogs and Wikis](#blogs-and-wikis)
 - [Communities and webrings](#communities-and-webrings)
   * [Text boards](#text-boards)
   * [Webring](#webring)
@@ -19,6 +20,12 @@ Most of these links might dead in the future, and for that case, you should use 
 - [Random](#random)
 - [Search Engines](#search-engines)
 - [Useful and cool widgets for your website](#useful-and-cool-widgets-for-your-website)
+
+# Blogs and wikis
+
+- [Andy Matuschak's Working Notes](https://notes.andymatuschak.org) - Notes about noting
+ - [Bob Doto's Blog](https://writing.bobdoto.computer) - Writings and essays about organizing and linking notes (most of the time)
+- [XXIIVV's Wiki](https://wiki.xxiivv.com) - Cool wiki. Lots of bingeworthy content.
 
 # Communities and webrings
 ## Text boards
