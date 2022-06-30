@@ -1,1 +1,1 @@
-(B) 30-06-2022 Writing a blog post about hosting fonts locally for Subreply CSS
+(A) 30-06-2022 Writing a blog post about hosting fonts locally for Subreply CSS
