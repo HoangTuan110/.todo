@@ -57,3 +57,7 @@ x 2022-04-19 19-04-2022 Doing IT homeworks @programming
 x 2022-04-19 19-04-2022 Updating draft "Webview gives better performance than normal browsers"
 x 2022-04-19 19-04-2022 Doing IT homework
 x 2022-04-20 20-04-2022 Doing IT homeworks
+x 2022-07-08 30-06-2022 Writing a blog post about hosting fonts locally for Subreply CSS
+x 2022-07-08 30-06-2022 Add badges
+x 2022-07-08 30-06-2022 Mirror the project to GitHub
+x 2022-07-08 30-06-2022 Add a logo (which will be just Subreply, just color inverted)

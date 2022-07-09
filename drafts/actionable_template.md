@@ -1,1 +1,1 @@
-> [Discuss on HN]() | [Tweet this post]()
+> [Discuss on HN](https://news.ycombinator.com/item?id=31928385) | [Tweet this post](https://ctt.ac/Rs3ic)
