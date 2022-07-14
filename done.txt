@@ -61,3 +61,8 @@ x 2022-07-08 30-06-2022 Writing a blog post about hosting fonts locally for Subr
 x 2022-07-08 30-06-2022 Add badges
 x 2022-07-08 30-06-2022 Mirror the project to GitHub
 x 2022-07-08 30-06-2022 Add a logo (which will be just Subreply, just color inverted)
+x 2022-07-12 12-07-2022 Initialize Git/Mercurial for Robin +project +programming
+x 2022-07-13 12-07-2022 Add Help section for helping people querying and reading files +project
+x 2022-07-13 Display directories/files in one single path +programming +robin
+x 2022-07-13 Update Help section +programming +robin
+x 2022-07-14 Custom directory display +programming +project +robin +cli

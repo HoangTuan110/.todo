@@ -1,0 +1,5 @@
+# A notebook is a human's best friend
+
+A notebook is a human's best friend. It's the only friend who will always stay neutral to your argument, whether it is controversial or not. It's the only friend who will capture all of your wild and rational thoughts and feelings and give nothing back. It's the only friend that will tell you the most amazing or depressing stories, in which your younger self are the main character. It's the only friend that will store all of your thoughts years after your death and tell your stories to those who read it.
+
+> Have a comment on my posts? Start a discussion in [my public inbox](https://lists.sr.ht/~tsukii/public-inbox) by sending an email to [~tsukii/public-inbox@lists.sr.ht](mailto:~tsukii/public-inbox@lists.sr.ht) [[mailing list etiquette](https://man.sr.ht/lists.sr.ht/etiquette.md)]

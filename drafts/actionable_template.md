@@ -1,1 +1,1 @@
-> [Discuss on HN](https://news.ycombinator.com/item?id=31928385) | [Tweet this post](https://ctt.ac/Rs3ic)
+> Have a comment on my posts? Start a discussion in [my public inbox](https://lists.sr.ht/~tsukii/public-inbox) by sending an email to [~tsukii/public-inbox@lists.sr.ht](mailto:~tsukii/public-inbox@lists.sr.ht) [[mailing list etiquette](https://man.sr.ht/lists.sr.ht/etiquette.md)]
