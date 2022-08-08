@@ -66,3 +66,5 @@ x 2022-07-13 12-07-2022 Add Help section for helping people querying and reading
 x 2022-07-13 Display directories/files in one single path +programming +robin
 x 2022-07-13 Update Help section +programming +robin
 x 2022-07-14 Custom directory display +programming +project +robin +cli
+x 2022-07-19 Doing some codegolfing
+x 2022-08-05 Doing math homework

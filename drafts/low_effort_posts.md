@@ -1,0 +1,5 @@
+# Low-effort posts
+
+I have always wondered why does my low-effort blog posts (aka posts that I just wrote what I think at the moment and are not well-researched) racked up more views and engagement (e.g. [An Unorganized Life](https://tsk.bearblog.dev/an-unorganized-life/), [I am bored](https://tsk.bearblog.dev/i-am-bored/) and [New bloggers](https://tsk.bearblog.dev/new-bloggers/)) than my more thought-out blog posts (like [My first steps of getting rid of social media](https://tsk.bearblog.dev/my-first-steps-of-getting-rid-of-social-media/), for example).
+
+My best guess is that these low-effort posts has a lot of relatability compared to my other blog posts. A lot of people who are surfing Twitter or Hacker News surely is bored, so they find my blog [I am bored](https://tsk.bearblog.dev/i-am-bored/) relatable.
